@@ -21,5 +21,5 @@ Probably can work with MA2 as well, but not guaranteed.
 
 Provided as is.
 
-0.1 - Initial release
-0.11 - Bugfix 
+-0.1 - Initial release
+-0.11 - Bugfix 
